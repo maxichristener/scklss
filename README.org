@@ -1,0 +1,13 @@
+#+TITLE: scklss
+
+
+Un repositorio con software de [[https://suckless.org/][Suckless]]. Contiene un emulador de terminal
+(st) y un tiling window manager (dwm) con su respectiva barra de estado
+(Goblocks). Son programas claves que uso intensivamente en
+mi flujo de trabajo, a la par de Emacs y otros que
+aparecen en [[https://github.com/maxichristener/dotfiles/][dotfiles]].
+
+Las carpetas tienen el código fuente de cada uno. Allí se realiza la
+configuración y se aplican los parches para extender su funcionalidad.
+Antes de instalar, sugiero hacer un =make clean= para eliminar los
+binarios viejos que quedaron de compilaciones anteriores.
